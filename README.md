@@ -12,6 +12,8 @@ The data is organized as a JSON array, with each element representing a state. E
   - **`code`**: The district code as maintained by the Government of India.
   - **`name`**: The name of the district.
 
+Feel free to use this data for various applications related to Indian states and districts. Contributions and improvements are welcome!
+
 ## Example
 
 ```json
@@ -33,3 +35,4 @@ The data is organized as a JSON array, with each element representing a state. E
   },
   // Additional states...
 ]
+
