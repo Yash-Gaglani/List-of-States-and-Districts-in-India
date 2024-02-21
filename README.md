@@ -81,8 +81,8 @@ IGNORE 1 LINES;
 Please adjust path/to/your/csv/Indian_States_and_Districts.csv, your_table_name, and any specifics related to your SQL dialect and database requirements.
 
 
-##Usage
+## Usage
 This dataset is intended for use in applications that require detailed geographical information about India, including state and district-level data. It's ideal for analysis, mapping projects, or any application where such granularity is necessary.
 
-##Contributions
+## Contributions
 Your contributions are welcome! If you have suggestions for improving the dataset or the documentation, please feel free to submit an issue or pull request.
